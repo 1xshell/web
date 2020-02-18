@@ -1,3 +1,3 @@
 <?php
-echo "test"
+require_once '../app/bootstrap.php';
 ?>
